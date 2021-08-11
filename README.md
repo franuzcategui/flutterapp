@@ -1,5 +1,7 @@
 # flutterapp
 
+v1.2
+
 First Flutter Project
 
 ## Getting Started
